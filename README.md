@@ -1,11 +1,25 @@
+# Smart Daily Task Management App
 
-  # Build web application
+A simple and responsive **Task Management Web Application** that helps users organize their daily tasks efficiently. Users can create, edit, delete, and track tasks easily.
 
-  This is a code bundle for Build web application. The original project is available at https://www.figma.com/design/m9vznE0f7roZKegwJMiWqN/Build-web-application.
+## 🚀 Features
 
-  ## Running the code
+- User Login & Registration
+- Add new tasks
+- Edit existing tasks
+- Delete tasks
+- Mark tasks as completed
+- Task filtering
+- Responsive UI
+- Secure user-based task storage
 
-  Run `npm i` to install the dependencies.
+## 🛠️ Technologies Used
 
-  Run `npm run dev` to start the development server.
-  
+- React.js
+- TypeScript
+- HTML5
+- Tailwind CSS / CSS
+- JavaScript
+- Local Storage
+
+## 📂 Project Structure
